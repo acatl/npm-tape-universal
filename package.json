@@ -1,0 +1,27 @@
+{
+  "name": "npm-tape-universal",
+  "version": "0.1.0",
+  "description": "npm scripts + universal js + testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/acatl/npm-tape-universal"
+  },
+  "keywords": [
+    "npm",
+    "scripts",
+    "test",
+    "tape",
+    "universal",
+    "javascript"
+  ],
+  "author": "acatl.pacheco@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/acatl/npm-tape-universal/issues"
+  },
+  "homepage": "https://github.com/acatl/npm-tape-universal"
+}
